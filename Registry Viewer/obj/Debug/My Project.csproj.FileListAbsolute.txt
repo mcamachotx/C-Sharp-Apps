@@ -1,0 +1,22 @@
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\bin\Debug\My Project.exe.config
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\bin\Debug\My Project.exe
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\bin\Debug\My Project.pdb
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My Project.exe
+c:\users\miguel camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Miguel Camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form2.resources
+C:\Users\Miguel Camacho\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form1.resources
+C:\Users\Miguel Camacho\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form3.resources
+C:\Users\Miguel Camacho\documents\visual studio 2012\Projects\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\bin\Debug\My Project.exe.config
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My Project.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My Project.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\bin\Debug\My Project.exe
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\bin\Debug\My Project.pdb
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form1.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form2.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Form3.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My_Project.Properties.Resources.resources
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My Project.csproj.GenerateResource.Cache
+C:\Users\Miguel\Documents\Visual Studio 2012\Projects\My Project\My Project\obj\Debug\My Project.csprojResolveAssemblyReference.cache
